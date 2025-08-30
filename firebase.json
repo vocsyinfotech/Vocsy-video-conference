@@ -1,0 +1,45 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "cc-video-conference",
+          "appId": "1:846565848931:android:f91a2e14b1d5d2dcc74556",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "video-confareance",
+          "appId": "1:887052093592:ios:041e368e7b9bf83297a8ed",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "cc-video-conference",
+          "configurations": {
+            "android": "1:846565848931:android:f91a2e14b1d5d2dcc74556",
+            "ios": "1:846565848931:ios:625e3c675c8a6f1dc74556"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+      ]
+    }
+  ]
+}

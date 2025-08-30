@@ -1,0 +1,102 @@
+{
+  "project_info": {
+    "project_number": "846565848931",
+    "project_id": "cc-video-conference",
+    "storage_bucket": "cc-video-conference.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846565848931:android:f91a2e14b1d5d2dcc74556",
+        "android_client_info": {
+          "package_name": "com.vocsy.video_conforance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846565848931-0ek75nl4abcku5hahu7ghrjd7fkbgpjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.video_conforance",
+            "certificate_hash": "f4f8b94861eb55d63a7612247bed6d7e5bb9ab14"
+          }
+        },
+        {
+          "client_id": "846565848931-12khjkn7enqbl5fsgv855fg90nbqqvot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.video_conforance",
+            "certificate_hash": "a7ee99a1639e90305688cf1edc53e73036deace9"
+          }
+        },
+        {
+          "client_id": "846565848931-4a9qqi8mjjple3hscmv8725t8equ76ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.video_conforance",
+            "certificate_hash": "b393fcf639a091ef9b823494fd6f359b81442131"
+          }
+        },
+        {
+          "client_id": "846565848931-cvhircpv0qdqdgcs353d9b91dabll1tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.video_conforance",
+            "certificate_hash": "be35373d82ede81ebf12700a1b79d616b1533fdb"
+          }
+        },
+        {
+          "client_id": "846565848931-dn65l4l4r8fecvf8s4b2o7r1hetf2j7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.video_conforance",
+            "certificate_hash": "7e2c129f4153986e6a86ea074f02c86c71fca9cb"
+          }
+        },
+        {
+          "client_id": "846565848931-icrcr12sfc0c4qmrsia3eknkd3quq7df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.video_conforance",
+            "certificate_hash": "1fce9fcb644786330972c1099fa0b6985ccee927"
+          }
+        },
+        {
+          "client_id": "846565848931-rlk8efjrr1jji999lkffenmeroi9s5t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vocsy.video_conforance",
+            "certificate_hash": "e5e8bb246744abff835efe41ba6798e8f96bb31e"
+          }
+        },
+        {
+          "client_id": "846565848931-mkbd29atccur1kp3o3qjmod2a7rioqfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7jwFi9jWvJ7CCpa-DNr1UPSohkpA0Q4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846565848931-mkbd29atccur1kp3o3qjmod2a7rioqfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846565848931-aiqb5jbhb3b4cr46ti3u23ra18usffjo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videoConforance"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
