@@ -1,16 +1,24 @@
-# video_conforance
+# Video Conference
 
-A new Flutter project.
+- **Android Only**
 
-## Getting Started
+#### PACKAGE NAME
 
-This project is a starting point for a Flutter application.
+- "com.vocsy.video_conforance"
 
-A few resources to get you started if this is your first Flutter project:
+#### FLUTTER RELEASE SDK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- SDK 3.32.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### FIREBASE
+
+- GMail: krunalvocsy@gmail.com
+- Project id : "cc-video-conference"
+- Project name : "CC Video Conference"
+- Project number : 846565848931
+
+
+#### GITHUB
+
+- **BRANCH** main
+- https://github.com/vocsyinfotech/Vocsy-video-conference
